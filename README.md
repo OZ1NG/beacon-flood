@@ -19,7 +19,7 @@ sample: $ beacon_flood mon0 ssid-list.txt
 
 - `2. test_ap`(영어)와 `3. hi_배고프다`(한글)가 beacon-flood attack에 의해 보이는 것을 알 수 있다.  
 
-<img src="result.png" alt="image-20220214012450414" style="zoom:50%;" />
+<img src="result.png" alt="image-20220214012450414" style="zoom:25%;" />
 
 ## 참고
 
